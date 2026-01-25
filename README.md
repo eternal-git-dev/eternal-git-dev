@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=REST%20API&logo=swagger&color=85EA2D&style=flat" height="26" alt="rest api" />&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?message=WebSocket&logo=webcomponentsdotorg&color=5A9BD4&style=flat" height="26" alt="websocket" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/sqlite.svg" height="26" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
 </p>
 
 <!-- Row 3: infra / tooling -->
