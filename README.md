@@ -63,6 +63,7 @@
 </p>
 
 </div>
+
 ###
 
 <h3 align="left">Проекты</h3>
@@ -74,14 +75,3 @@
 - **API Spec Generator**  
   Генератор спецификаций API из кода / структур данных. Упрощает создание документации и спецификаций для REST API.  
   👉 https://github.com/eternal-git-dev/api-spec-generator
-
-###
-
-<h3 align="left">GitHub статистика</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eternal-git-dev&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eternal-git-dev&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
-###
